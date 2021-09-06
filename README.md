@@ -8,9 +8,13 @@
 FNF WITH EXTRA KEYS:
 
 [TheZoroForce240 - Coding and assets](https://gamebanana.com/mods/311713)
+
 [srPerez - Created the original code and assets for extra keys](https://gamebanana.com/members/1819241)
+
 [phlox](https://gamebanana.com/members/1800032) and [wildy](https://gamebanana.com/members/1663640) - Vs bob (glitch arrows)
-[KadeDev](https://gamebanana.com/members/1774971) - kade engine (duh)
+
+[KadeDev - kade engine (duh)](https://gamebanana.com/members/1774971)
+
 
 JOEL MMD MODEL:
 

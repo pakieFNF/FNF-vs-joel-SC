@@ -20,14 +20,18 @@ JOEL MMD MODEL:
 
 [Shadytay - Model edit](https://www.deviantart.com/shadytay/art/MMD-Vinesauce-Vargskelethor-Joel-703273020)
 
-Base credits:
 HaruchanShirayuki - Texture edits on face and eye spas
+
 Rolneeq - Face texture
+
 508 - Face texture
+
 [YM - Body](https://harudelrey.deviantart.com/art/MMD-Male-Kio-Base-UPDATE-DOWNLOAD-421291057)
 
 Textures:
+
 [amillionn - Hair texture](https://amillionn.deviantart.com/art/MMD-REALISTIC-HAIR-TEXTURES-DL-701873947)
+
 [Tehrainbowllama- eye texture](https://www.deviantart.com/art/Vocaloid-Boxart-Based-Eye-Textures-458619398)
 
 Parts:

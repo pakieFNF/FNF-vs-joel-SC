@@ -5,6 +5,13 @@
 **Friday Night Funkin' VS Joel** is a WIP mod for FNF that puts player against joel from [vinesuace streamer group](https://vinesauce.com/), watch this repro for updates and shit 
 
 # CREDITS
+FNF WITH EXTRA KEYS:
+
+[TheZoroForce240 - Coding and assets](https://gamebanana.com/mods/311713)
+[srPerez - Created the original code and assets for extra keys](https://gamebanana.com/members/1819241)
+[phlox](https://gamebanana.com/members/1800032) and [wildy](https://gamebanana.com/members/1663640) - Vs bob (glitch arrows)
+[KadeDev](https://gamebanana.com/members/1774971) - kade engine (duh)
+
 JOEL MMD MODEL:
 
 [Shadytay - Model edit](https://www.deviantart.com/shadytay/art/MMD-Vinesauce-Vargskelethor-Joel-703273020)

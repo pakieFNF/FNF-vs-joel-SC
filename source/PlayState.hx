@@ -783,6 +783,16 @@ class PlayState extends MusicBeatState
 	
 						add(stageCurtains);
 				}
+				case 'apartment':
+					{
+							defaultCamZoom = 0.8;
+							curStage = 'stage';
+							var bg:FlxSprite = new FlxSprite(-600, -200).loadGraphic(Paths.image('apartment'));
+							bg.antialiasing = FlxG.save.data.antialiasing;
+							bg.scrollFactor.set(0.9, 0.9);
+							bg.active = false;
+							add(bg);
+					}
 			default:
 			{
 					defaultCamZoom = 0.9;

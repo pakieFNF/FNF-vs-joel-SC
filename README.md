@@ -43,6 +43,7 @@ Sefina-NZ - [Shirt](https://sefina-nz.deviantart.com/art/MMD-Male-Black-T-Shirt-
 [pdiddy200 - Shoes](https://pdiddy200.deviantart.com/art/MMD-Kio-Neru-Shoes-Download-322120112)
 
 MISC.
+
 [RedialC - Room3](https://www.deviantart.com/redialc/art/MMD-STAGE-DL-RC-S-Room03-Hua-740656807)
 
 # AGGA

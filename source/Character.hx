@@ -499,6 +499,21 @@ class Character extends FlxSprite
 				addOffset("singDOWN-alt", -30, -27);
 
 				playAnim('idle');
+				case 'joel':
+					// DAD ANIMATION LOADING CODE
+					tex = Paths.getSparrowAtlas('characters/joel', 'shared');
+					frames = tex;
+					animation.addByPrefix('idle', 'idle', 24);
+					animation.addByPrefix('singUP', 'up', 24);
+					animation.addByPrefix('singRIGHT', 'right', 24);
+					animation.addByPrefix('singDOWN', 'down', 24);
+					animation.addByPrefix('singLEFT', 'left', 24);
+	
+					addOffset('idle');
+					addOffset("singUP", 2, 32);
+					addOffset("singRIGHT", -30, -54);
+					addOffset("singLEFT", 44, -2);
+					addOffset("singDOWN", -17, -65);
 		}
 
 		dance();

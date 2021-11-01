@@ -1,5 +1,7 @@
 
 ![Kade Engine logo](assets/preload/images/KadeEngineLogo.png)
+# NOTICE
+**development will move to psych or forever engine due to a  issue with preloading crashing the game that i cannot fix**
 
 # Friday Night Funkin': VS Joel
 **Friday Night Funkin' VS Joel** is a WIP mod for FNF that puts player against joel from [vinesuace streamer group](https://vinesauce.com/), watch this repro for updates and shit 
